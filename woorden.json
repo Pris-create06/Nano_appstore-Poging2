@@ -1,0 +1,5 @@
+{
+    "makkelijk": ["hond", "kat", "boom"],
+    "medium": ["computer", "school", "programmeren"],
+    "moeilijk": ["elektriciteit", "anticonstitutioneel", "psychologie"]
+}
